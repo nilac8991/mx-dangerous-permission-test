@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Note. CallerSignature should be changed with the CERT of the signature which you intend to use to compile your application -->
+<wap-provisioningdoc>
+    <characteristic type="ProfileInfo">
+        <parm name="created_wizard_version" value="13.0.1" />
+    </characteristic>
+    <characteristic type="Profile">
+        <parm name="ProfileName" value="DangerousPermissions" />
+        <parm name="ModifiedDate" value="2024-11-29 15:25:51" />
+        <parm name="TargetSystemVersion" value="13.1" />
+        <characteristic type="AccessMgr" version="13.1">
+            <parm name="emdk_name" value="" />
+            <parm name="PermissionAccessAction" value="1" />
+            <parm name="PermissionAccessPermissionName" value="ALL_DANGEROUS_PERMISSIONS" />
+            <parm name="PermissionAccessPackageName" value="com.nilac.zebra.mxdangerouspermissionssample" />
+            <parm name="PermissionAccessSignature"
+                value="MIIC/jCCAeYCAQEwDQYJKoZIhvcNAQELBQAwRDEWMBQGA1UEAwwNRGFuaWVsIE5lYW10dTEbMBkGA1UECgwSWmVicmEgVGVjaG5vbG9naWVzMQ0wCwYDVQQIDARFTUVBMCAXDTIzMDcxMDA5MDMwOVoYDzIwNjMwNjMwMDkwMzA5WjBEMRYwFAYDVQQDDA1EYW5pZWwgTmVhbXR1MRswGQYDVQQKDBJaZWJyYSBUZWNobm9sb2dpZXMxDTALBgNVBAgMBEVNRUEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCaFUzyv0gT4Cvi14ctwp8YcXxZpFvyPQB9llVBBesI7rLKCwhKuvjABqbGuJLL6wLTLLrto/VJZW1PMwkz2xILUe7Yp8MVxJ6ZEU+2PRCQxHuZ6aqmQHU5tP/V5/IXKLM9rdAweW63r3p4xukG2p4dEwgODav3mhwdULHBta++F8j0txJOGGa3qgU2LMVJhGLdH3X+u8iJ+CXOLx31+P9S1TbPE11B+TGWtEAp2tmqxZ7cfRAhkoH5sbDbIeXfzD9m4ApnEgK2MBHddvFcz90m+jwFfmqL5owq4CX52cAmSdERaCN23PUDP480TzUy1u2IpNiEzWqNt9V52SHnPakbAgMBAAEwDQYJKoZIhvcNAQELBQADggEBADkgIcMisGrc179PA6VunAf2MHakjQ7r+SPRW4vqpJeiyM7PP7RTGVw0ZPilq7fkLzMG4DzENSd0qOmTnm++zh5foaJJpOFWoajiQVbDShh8RLnu1ea8ig+UyN5KdcBJijLwPq5pQiQPfJFoZ724Z0DPNR1uvaap1Gv5AR25SDPws9Ou5xPVphExVXG03YCq4B+I9LxIlcvS5f4hdoTBzUFx/h1CAybnst2d8gVHjU0Un7lUd6jMdsq9Yr6DQ8yPYAGpQ5PU9zvu0CVNaY+S9gvHwrzKqqRl7CSlpjzDaPXARPFv/AgNPaoUaH9LjtHwPlnvnzUQ44y2/3u1+jS3QuE=" />
+        </characteristic>
+    </characteristic>
+</wap-provisioningdoc>
